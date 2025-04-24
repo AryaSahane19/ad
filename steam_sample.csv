@@ -1,0 +1,9 @@
+user_id,game_title,behavior_name,value,x
+1,A,play,5,
+2,B,purchase,1,
+3,C,play,100,
+4,D,purchase,1,
+4,D,purchase,1,
+5,E,play,120,
+6,F,play,4,
+7,G,play,3,
